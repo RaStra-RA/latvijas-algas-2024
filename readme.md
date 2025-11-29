@@ -3,10 +3,10 @@
 Oficiālie Centrālās statistikas pārvaldes (CSP) dati – 2024. gada 2. ceturksnis
 
 ### Galvenie secinājumi
-- Vidējā bruto alga Latvijā: **1850 €**
-- 1. vieta: **Finanšu un apdrošināšana** – 2851 €
-- 2. vieta: **IT un komunikācija** – 2733 €
-- Zemākā nozare: **Naktsmītnes un ēdināšana** – 1107 €
+- Vidējā bruto alga Latvijā: **1850 €**  
+- **1. vieta** – Finanšu un apdrošināšana: **2851 €**  
+- **2. vieta** – IT un komunikācija: **2733 €**  
+- **Zemākā nozare** – Naktsmītnes un ēdināšana: **1107 €**
 
 ### Grafiki
 
@@ -16,8 +16,5 @@ Oficiālie Centrālās statistikas pārvaldes (CSP) dati – 2024. gada 2. cetur
 **Algas pa reģioniem**  
 ![Algas pa reģioniem](grafiks_regioni.png)
 
-**Tehnoloģijas**  
-Python • Pandas • Seaborn • Matplotlib
-
-**Datu avots**  
-CSP oficiālie dati (2024)
+**Tehnoloģijas:** Python • Pandas • Seaborn • Matplotlib  
+**Datu avots:** CSP (2024)
